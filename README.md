@@ -93,4 +93,4 @@ This framework emphasizes:
 4) Scalability for commercial adoption  
 
 ## Workload:
-### Week1: To understand VRP problems, try out the https://pyvrp.org/ toolkit and the Ai4co.org toolkit.
+### Week1: To understand VRP problems, try out the https://pyvrp.org/ toolkit and the Ai4co.org toolkit on your local machine.
